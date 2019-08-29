@@ -1,4 +1,3 @@
 # success
-My Internship Task 2
-https://twitter.com/success4life18/status/1164950669750652929
-https://lucid.blog/success4life18/post/1566587319
+My Internship Task 3
+https://lucid.blog/success4life18/post/why-css-has-made-html-so-much-better-c1a
